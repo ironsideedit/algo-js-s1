@@ -10,5 +10,4 @@ switch(a){
     break 
   defaut:
     console.log("égal à rien") 
-
 }
