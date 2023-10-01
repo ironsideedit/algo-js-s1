@@ -10,5 +10,6 @@ class Raichu {
     }
 }
 
-let Alexis = new Raichu
+let Alexis = new Raichu (76, 5);
+Raichu.getAttack();
     
